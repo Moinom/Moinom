@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Lisa
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning React.js and Typescript
+- 📫 Reach me at info@lisa-strempel.de
